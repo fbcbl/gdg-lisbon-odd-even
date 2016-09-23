@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Par ou Ímpar</string>
+
+    <string name="game.hint">Pick a number</string>
+    <string name="game.reset">Reset</string>
+
+    <string name="player.even">Even Player</string>
+    <string name="player.even.pick">\"Even\" player pick</string>
+
+    <string name="player.odd">Odd Player</string>
+    <string name="player.odd.pick">\"Odd\" player pick</string>
+
+    <string name="save">Save</string>
+
+    <string name="game.winner">Winner: %s player.</string>
+    <string name="game.get_winner">Get Result!</string>
+
+    <string name="error.choice_is_missing">Not all players have done their pick!</string>
+    <string name="neutral.got_it">Got it!</string>
+
+    <string name="neutral.choices_confirmation">Are you sure you don\'t want to change your picks?</string>
+    <string name="give_me_the_result">Give me the winner!</string>
+    <string name="change_my_pick">Let me change a pick</string>
+</resources>
